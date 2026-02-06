@@ -9,6 +9,6 @@ Homepage: https://nxos.org
 
 Package: nuts-cpp-settings
 Architecture: any
-Depends: nuts
+Depends: nuts-cpp
 Description:  Settings for nuts-cpp.
 
