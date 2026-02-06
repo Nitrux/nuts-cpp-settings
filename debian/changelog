@@ -1,0 +1,6 @@
+nuts-cpp-settings (0.0.1) nitrux; urgency=medium
+
+  * Pre-scan arguments to allow help and version flags without root.
+  * Make version check for upgrades more robust.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 04 Jan 2026 12:03:00 -0500
