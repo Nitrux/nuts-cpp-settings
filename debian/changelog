@@ -1,6 +1,11 @@
+nuts-cpp-settings (0.0.2) nitrux; urgency=medium
+
+  * Rename config file to avoid conflicts.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 07 Jan 2026 06:49:00 -0500
+
 nuts-cpp-settings (0.0.1) nitrux; urgency=medium
 
-  * Pre-scan arguments to allow help and version flags without root.
-  * Make version check for upgrades more robust.
+  * Create package.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 04 Jan 2026 12:03:00 -0500
