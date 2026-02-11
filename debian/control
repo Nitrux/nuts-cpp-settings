@@ -8,7 +8,7 @@ Homepage: https://nxos.org
 
 
 Package: nuts-cpp-settings
-Architecture: any
+Architecture: all
 Depends: nuts-cpp
 Conflicts: nuts
 Description:  Settings for nuts-cpp.
